@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Live News Platform",
+        "description": "Interactive news platform using NLP and APIs to visualize real-time keywords with clickable word clouds",
+        "icon": "newspaper",
+        "tags": ["Python", "NLP", "Streamlit", "APIs"],
+        "github": "https://github.com/ajayrajsingh2003/live-news-platform",
+        "demo": null,
+        "fullDescription": "A dynamic, interactive news platform that uses NLP, web scraping, and APIs to visualize real-time keywords from trending headlines through clickable word clouds linked to related articles and videos.",
+        "modalContent": "<p><strong>Status:</strong> NJBDA 2025 – Presented</p><p><strong>Technologies:</strong> Python, NLP, TextBlob, REST APIs, Streamlit, WordCloud, JSON, Web Scraping</p><p><strong>GitHub:</strong> <a href='https://github.com/ajayrajsingh2003/live-news-platform' target='_blank'>ajayrajsingh2003/live-news-platform</a></p><br><h3>Key Achievements:</h3><ul><li>Processed 300+ articles in real-time using advanced NLP techniques</li><li>60% reduction in content delivery time through automated API-to-UI pipeline</li><li>Enhanced accessibility for underserved users through intuitive visual discovery</li><li>Integrated NYT and Bing Search APIs for comprehensive news coverage</li><li>Built interactive word clouds enabling efficient content exploration</li></ul>"
+    },
+    {
+        "id": 2,
+        "title": "AQI Routing Maps",
+        "description": "Health-focused navigation using Azure Maps providing pollution-aware routes for respiratory patients",
+        "icon": "route",
+        "tags": ["Azure", "APIs", "Healthcare", "Python"],
+        "github": "https://github.com/ajayrajsingh2003/aqi-routing-maps",
+        "demo": null,
+        "fullDescription": "Health-focused navigation system using Azure Maps API to provide pollution-aware routes for respiratory patients, integrating real-time air quality and weather data.",
+        "modalContent": "<p><strong>Status:</strong> NJBDA 2025 – Presented | First Place Winner - Data Science Showcase</p><p><strong>Technologies:</strong> Azure Maps API, Python, REST APIs, Real-time Data Processing, Geospatial Analysis</p><p><strong>GitHub:</strong> <a href='https://github.com/ajayrajsingh2003/aqi-routing-maps' target='_blank'>ajayrajsingh2003/aqi-routing-maps</a></p><br><h3>Key Achievements:</h3><ul><li>60% reduction in data preparation time through automated environmental data ingestion</li><li>Demonstrated health risk reduction in 100+ route simulations</li><li>Real-time integration of AQI and weather data for safer commuting</li><li>Custom algorithm prioritizing routes with lower pollution levels</li><li>Supports sustainable urban mobility planning</li></ul>"
+    },
+    {
+        "id": 3,
+        "title": "Metaheuristic Optimization",
+        "description": "PSO, ACO, and Hybrid optimization for breast cancer diagnosis with improved accuracy",
+        "icon": "dna",
+        "tags": ["Python", "ML", "Healthcare", "Research"],
+        "github": "https://github.com/ajayrajsingh2003/Optimization-with-Metaheuristic-Optimization",
+        "demo": null,
+        "fullDescription": "Metaheuristic Optimization for Logistic Regression using PSO, ACO, and Hybrid ACO+GridSearchCV to optimize the regularization parameter C for breast cancer diagnosis.",
+        "modalContent": "<p><strong>Application:</strong> Breast Cancer Diagnosis</p><p><strong>Technologies:</strong> Python, Scikit-learn, PSO, ACO, Hybrid ACO+GridSearchCV, Logistic Regression</p><p><strong>GitHub:</strong> <a href='https://github.com/ajayrajsingh2003/Optimization-with-Metaheuristic-Optimization' target='_blank'>ajayrajsingh2003/Optimization-with-Metaheuristic-Optimization</a></p><br><h3>Research Achievements:</h3><ul><li>15% improvement in prediction accuracy over traditional methods</li><li>20% reduction in model training time</li><li>30% reduction in error rates on Breast Cancer Wisconsin dataset</li><li>Comparative analysis of PSO, ACO, and Hybrid optimization approaches</li><li>Optimized regularization parameter C for improved model stability</li></ul>"
+    },
+    {
+        "id": 4,
+        "title": "Text Summarization",
+        "description": "Comparative analysis of BART, T5, and PEGASUS models for abstractive summarization",
+        "icon": "file-alt",
+        "tags": ["NLP", "BART", "T5", "PEGASUS"],
+        "github": "https://github.com/ajayrajsingh2003/Text-Summarization",
+        "demo": null,
+        "fullDescription": "Comprehensive comparison of state-of-the-art abstractive summarization models evaluating execution time, memory usage, and summary quality.",
+        "modalContent": "<p><strong>Technologies:</strong> BART, T5, PEGASUS, Python, NLP, Cosine Similarity, BERT, Word2Vec</p><p><strong>GitHub:</strong> <a href='https://github.com/ajayrajsingh2003/Text-Summarization' target='_blank'>ajayrajsingh2003/Text-Summarization</a></p><br><h3>Key Findings:</h3><ul><li>Evaluated BART, T5, and PEGASUS models for abstractive summarization</li><li>Analyzed execution time and memory usage trade-offs</li><li>Used Cosine Similarity, BERT, and Word2Vec for quality assessment</li><li>Provided guidelines for model selection in real-world applications</li><li>Highlighted performance trade-offs for different use cases</li></ul>"
+    },
+    {
+        "id": 5,
+        "title": "Heart Disease Dashboard",
+        "description": "Award-winning Tableau visualization on CDC's Heart Disease Dataset (Data Storyteller Award)",
+        "icon": "heart",
+        "tags": ["Tableau", "Data Viz", "Healthcare", "Award"],
+        "github": "https://github.com/ajayrajsingh2003/data-storyteller-award-dashboard",
+        "demo": null,
+        "fullDescription": "Award-winning Tableau dashboard built on the CDC's 'Indicator of Heart Disease Dataset' 2022, showcasing advanced data visualization and storytelling techniques.",
+        "modalContent": "<p><strong>Award:</strong> Data Storyteller Award Winner</p><p><strong>Technologies:</strong> Tableau, Data Visualization, CDC Dataset, Statistical Analysis</p><p><strong>GitHub:</strong> <a href='https://github.com/ajayrajsingh2003/data-storyteller-award-dashboard' target='_blank'>ajayrajsingh2003/data-storyteller-award-dashboard</a></p><br><h3>Key Features:</h3><ul><li>Interactive visualizations for heart disease indicators</li><li>Statistical analysis of CDC's 2022 dataset</li><li>Data-driven insights for health outcomes prediction</li><li>Advanced Tableau techniques for effective storytelling</li><li>Recognized for excellence in data visualization</li></ul>"
+    },
+    {
+        "id": 6,
+        "title": "ETL Pipeline Automation",
+        "description": "Automated PySpark ETL with Airflow reducing manual effort by 40% at Pavane Solutions",
+        "icon": "cloud",
+        "tags": ["PySpark", "Airflow", "AWS", "Terraform"],
+        "github": "#",
+        "demo": null,
+        "fullDescription": "Enterprise-grade ETL pipeline automation project implementing scalable batch and real-time data processing workflows using PySpark and Apache Airflow.",
+        "modalContent": "<p><strong>Company:</strong> Pavane Solutions Inc.</p><p><strong>Technologies:</strong> PySpark, Apache Airflow, AWS (S3, Redshift, Glue), Terraform, CloudWatch</p><br><h3>Key Achievements:</h3><ul><li>35% improvement in data processing throughput</li><li>40% reduction in manual errors through automation</li><li>25% reduction in operational costs via AWS optimization</li><li>Implemented Infrastructure as Code using Terraform</li><li>Built reusable data ingestion frameworks</li><li>Developed robust data quality monitoring systems</li></ul>"
+    }
+]

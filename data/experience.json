@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Pavane Solutions Inc.",
+        "logo": "PS",
+        "position": "Data Engineer",
+        "duration": "Jun 2024 – Present",
+        "location": "Remote, NJ",
+        "achievements": [
+            "Designed and implemented scalable batch and real-time ETL pipelines using PySpark and Apache Airflow, improving data processing throughput by 35%",
+            "Automated end-to-end data workflows to ingest, validate, and transform multi-source datasets, reducing manual errors by 40% and accelerating delivery timelines",
+            "Migrated legacy on-premises databases and workflows to AWS cloud services including S3, Redshift, and Glue, improving system scalability and reducing operational costs by 25%",
+            "Developed robust data quality monitoring and alerting systems using CloudWatch and custom Python scripts, ensuring data accuracy and pipeline reliability across distributed environments",
+            "Collaborated with cross-functional engineering and analytics teams to design data schemas and optimize query performance, reducing average query latency by 20%",
+            "Implemented infrastructure as code (IaC) using Terraform to automate provisioning of cloud resources, improving deployment speed and environment consistency",
+            "Built reusable data ingestion frameworks enabling rapid onboarding of new data sources, cutting integration time by 50%",
+            "Led initiatives to optimize data lake architecture with partitioning and compaction strategies, enhancing query efficiency for big data analytics"
+        ]
+    },
+    {
+        "company": "Saint Peter's University",
+        "logo": "SPU",
+        "position": "Data Science Researcher",
+        "duration": "Nov 2023 – Feb 2025",
+        "location": "Jersey City, NJ",
+        "achievements": [
+            "Streamlined research data flows by automating Azure-based ingestion pipelines, boosting retrieval speed and reducing manual processing by 50%",
+            "Integrated Bing Search API and Azure Blob Storage to build a real-time news summarization pipeline, improving retrieval and accessibility for dynamic word clouds",
+            "Automated environmental data ingestion pipelines, cutting data preparation time by 60% and enabling faster research iterations",
+            "Built AQI-based routing system using real-time environmental data, reducing exposure risk for respiratory patients and selected for NJBDA presentation",
+            "Engineered hybrid ACO + Grid Search algorithm for logistic regression, improving prediction accuracy by 15% and reducing model training time by 20%",
+            "Developed NLP-driven news summarization tool integrating live APIs and dynamic word clouds to improve accessibility for underserved users",
+            "Presented two applied research projects at NJBDA 2025, strengthening institutional reputation and visibility in health-tech and NLP research",
+            "Leveraged Azure Maps API to compute least-polluted travel routes in real time, integrating geospatial and AQI data for health-focused routing models"
+        ]
+    },
+    {
+        "company": "IT Nopal Technologies",
+        "logo": "ITN",
+        "position": "Data Scientist II",
+        "duration": "Jun 2021 – Jan 2023",
+        "location": "New Delhi, India",
+        "achievements": [
+            "Led end-to-end development of real-time match analytics pipelines, enabling faster in-game insights for coaches and analysts",
+            "Built and optimized scalable ETL pipelines for processing high-volume sports data using PySpark, Apache Airflow, and AWS S3",
+            "Improved model accuracy by 20% through hyperparameter tuning, ensemble modeling, and advanced feature engineering",
+            "Reduced AWS deployment costs by 15% by optimizing resource use across Lambda, EC2, and S3 services",
+            "Containerized machine learning workflows using Docker and orchestrated deployment with CI/CD pipelines on GitLab",
+            "Achieved 100% data integrity across ingestion layers by developing robust Python scripts to process JSON data from 50K+ matches",
+            "Automated data validation and transformation workflows, cutting manual effort by 40%",
+            "Integrated APIs and SQL-based systems to enhance data throughput, pipeline reliability, and reporting accuracy"
+        ]
+    },
+    {
+        "company": "IT Nopal Technologies",
+        "logo": "ITN",
+        "position": "Data Scientist I",
+        "duration": "Jan 2019 – May 2021",
+        "location": "New Delhi, India",
+        "achievements": [
+            "Migrated over 10M records from NoSQL to PostgreSQL using PyODBC, reducing average query time by 85% and EC2 cost by 70%",
+            "Developed real-time data ingestion pipelines using AWS Lambda, EC2, and S3, improving analytics availability by 30%",
+            "Created exploratory dashboards with Plotly and SQL to track key player metrics and product KPIs for 4+ departments",
+            "Designed and deployed ML models to classify player behavior and predict rally outcomes, increasing forecasting accuracy by 18%",
+            "Automated data aggregation using reusable SQL and Python scripts, saving 40% of manual data handling effort",
+            "Applied validation logic across ingestion pipelines to improve report accuracy and ensure 95%+ data reliability",
+            "Collaborated with frontend developers to integrate analytics into dashboards, improving user engagement by 22%",
+            "Deployed lightweight Flask APIs to serve ML models, accelerating A/B testing and model feedback loops by 3 days"
+        ]
+    }
+]

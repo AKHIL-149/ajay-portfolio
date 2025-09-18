@@ -1,0 +1,32 @@
+[
+    {
+        "category": "Programming",
+        "icon": "code",
+        "skills": ["Python", "SQL", "PL/SQL", "C/C++", "YAML"]
+    },
+    {
+        "category": "Databases",
+        "icon": "database",
+        "skills": ["PostgreSQL", "MySQL", "SQL Server", "MongoDB", "NoSQL"]
+    },
+    {
+        "category": "Cloud & Big Data",
+        "icon": "cloud",
+        "skills": ["AWS", "Azure", "Snowflake", "PySpark", "Airflow"]
+    },
+    {
+        "category": "Analytics & Viz",
+        "icon": "chart-bar",
+        "skills": ["Tableau", "Power BI", "Plotly", "Scikit-learn", "Pandas"]
+    },
+    {
+        "category": "Tools & DevOps",
+        "icon": "tools",
+        "skills": ["Docker", "Terraform", "GitLab CI/CD", "Git", "Flask"]
+    },
+    {
+        "category": "ETL & Streaming",
+        "icon": "stream",
+        "skills": ["Apache Kafka", "AWS Glue", "Azure Data Factory", "SSIS", "DBT"]
+    }
+]

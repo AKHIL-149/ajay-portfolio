@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajay Raj Singh - Data Engineer Portfolio</title>
+    <meta name="description" content="Data Engineer with 6+ years of experience in ETL pipelines, cloud solutions, and data analytics">
+    <meta name="keywords" content="Data Engineer, Python, SQL, AWS, Azure, ETL, Machine Learning, PySpark, Airflow">
+    <meta name="author" content="Ajay Raj Singh">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="assets/images/ajay.png" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="profile-section">
+                <div class="profile-pic" onclick="openModal('aboutModal')" style="background-image: url('assets/images/ajay.png'); background-size: cover; background-position: center;">
+                </div>
+                <div class="profile-info">
+                    <h1 class="username">Ajay Raj Singh</h1>
+                    <div class="bio">
+                        <div>💻 Data Engineer | 6+ Years Experience</div>
+                        <div>🚀 Python • SQL • PySpark • AWS • Azure</div>
+                        <div>🎯 ETL Pipelines • ML • Data Visualization</div>
+                        <div>🏆 NJBDA Presenter • Data Science Club President</div>
+                        <div>📍 Jersey City, NJ</div>
+                    </div>
+                    <div class="stats">
+                        <div class="stat">
+                            <div class="stat-number">6+</div>
+                            <div class="stat-label">Years</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">20+</div>
+                            <div class="stat-label">Projects</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">7</div>
+                            <div class="stat-label">Awards</div>
+                        </div>
+                    </div>
+                    <div class="contact-links">
+                        <a href="mailto:ajayrajsingh2003@gmail.com" class="contact-btn">
+                            <i class="fas fa-envelope"></i> Email
+                        </a>
+                        <a href="https://linkedin.com/in/connectwithajayrajsingh" class="contact-btn secondary" target="_blank">
+                            <i class="fab fa-linkedin"></i> LinkedIn
+                        </a>
+                        <a href="assets/resume/AjayRajSingh_Resume.pdf" class="contact-btn resume-btn" download>
+                            <i class="fas fa-download"></i> Resume
+                        </a>
+                        <a href="https://github.com/ajayrajsingh2003" class="contact-btn github-btn" target="_blank">
+                            <i class="fab fa-github"></i> GitHub
+                        </a>
+                        <a href="tel:+17322090281" class="contact-btn secondary">
+                            <i class="fas fa-phone"></i> Call
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="highlights">
+            <div class="highlight" onclick="openModal('experienceModal')">
+                <div class="highlight-circle">
+                    <div class="highlight-inner">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                </div>
+                <div class="highlight-label">Experience</div>
+            </div>
+            <div class="highlight" onclick="openModal('skillsModal')">
+                <div class="highlight-circle">
+                    <div class="highlight-inner">
+                        <i class="fas fa-code"></i>
+                    </div>
+                </div>
+                <div class="highlight-label">Skills</div>
+            </div>
+            <div class="highlight" onclick="openModal('educationModal')">
+                <div class="highlight-circle">
+                    <div class="highlight-inner">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                </div>
+                <div class="highlight-label">Education</div>
+            </div>
+            <div class="highlight" onclick="openModal('awardsModal')">
+                <div class="highlight-circle">
+                    <div class="highlight-inner">
+                        <i class="fas fa-trophy"></i>
+                    </div>
+                </div>
+                <div class="highlight-label">Awards</div>
+            </div>
+        </div>
+
+        <nav class="tabs">
+            <div class="tab active" onclick="showTab('projects')">
+                <i class="fas fa-th-large"></i> Projects
+            </div>
+            <div class="tab" onclick="showTab('experience')">
+                <i class="fas fa-briefcase"></i> Experience
+            </div>
+            <div class="tab" onclick="showTab('about')">
+                <i class="fas fa-user"></i> About
+            </div>
+        </nav>
+
+        <main class="content">
+            <div id="projects-content">
+                <div class="posts-grid" id="projects-grid">
+                    <!-- Projects will be loaded dynamically -->
+                </div>
+            </div>
+
+            <div id="experience-content" style="display: none;">
+                <div id="experience-container">
+                    <!-- Experience will be loaded dynamically -->
+                </div>
+            </div>
+
+            <div id="about-content" style="display: none;">
+                <div class="experience-card">
+                    <h3 style="margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                        <i class="fas fa-user"></i> Professional Summary
+                    </h3>
+                    <p style="line-height: 1.6; margin-bottom: 20px;">
+                        Data Engineer with 6+ years of experience delivering production-ready data solutions and scalable ETL pipelines across healthcare, sports analytics, and enterprise domains. 
+                        Expert in Python, SQL, and cloud platforms (AWS, Azure), with proven expertise in building real-time and batch data processing systems using PySpark and Apache Airflow. 
+                        Demonstrated track record of reducing operational costs by 25%, improving data processing throughput by 35%, and achieving 100% data integrity across distributed systems.
+                        Successfully presented research at NJBDA 2025 on health-tech and NLP applications.
+                    </p>
+                    <div class="skills-container" id="skills-grid">
+                        <!-- Skills will be loaded dynamically -->
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <div id="modals-container"></div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
