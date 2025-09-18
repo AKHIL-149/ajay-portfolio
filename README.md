@@ -1,13 +1,13 @@
 # Ajay Raj Singh - Data Engineer Portfolio
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://ajayrajsingh2003.github.io/portfolio)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://ajayrajsingh2003.github.io/ajay-portfolio/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Professional portfolio website showcasing my experience as a Data Engineer with 6+ years of experience in ETL pipelines, cloud solutions, and data analytics.
 
 ## 🚀 Live Demo
 
-**Visit:** [https://ajayrajsingh2003.github.io/portfolio](https://ajayrajsingh2003.github.io/portfolio)
+**Visit:** [https://ajayrajsingh2003.github.io/ajay-portfolio/](https://ajayrajsingh2003.github.io/ajay-portfolio/)
 
 ## 📋 Table of Contents
 
